@@ -328,6 +328,8 @@ extension ViewController: CLLocationManagerDelegate {
         if status == .authorizedWhenInUse || status == .authorizedAlways {
             // if authorized, fetch the weather details of the previously searched city
             fetchData(LocalStorage.shared.fetchCity())
+        } else if status == .denied {
+            activityIndicator.stopAnimating()
         }
     }
 }
