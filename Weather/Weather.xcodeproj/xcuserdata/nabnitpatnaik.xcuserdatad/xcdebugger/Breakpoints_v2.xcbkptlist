@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6DAD53F2-B0BB-4C15-8A54-09CD8A95B87C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B83AB18C-93B7-487F-9237-CC65A4EB0EE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherTests/WeatherTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testPreload()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B83AB18C-93B7-487F-9237-CC65A4EB0EE2 - 40fbd6285148f92d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.WeatherTests.testPreload() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "B83AB18C-93B7-487F-9237-CC65A4EB0EE2 - 40fbd6285148f8ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.WeatherTests.testPreload() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "B83AB18C-93B7-487F-9237-CC65A4EB0EE2 - 7c779b78aa9e05fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.WeatherTests.testPreload() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Assignment/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "754E1FC3-6355-420D-AD77-30C827430128"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherTests/WeatherTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "weatherIconDownloadSuccess(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "754E1FC3-6355-420D-AD77-30C827430128 - fc65cf0f8ff20d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockVC.weatherIconDownloadSuccess(image: __C.UIImage) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "754E1FC3-6355-420D-AD77-30C827430128 - fc65cf0f8ff20d7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockVC.weatherIconDownloadSuccess(image: __C.UIImage) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "192"
+                  endingLineNumber = "192"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "754E1FC3-6355-420D-AD77-30C827430128 - fc65cf0f8ff20d85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockVC.weatherIconDownloadSuccess(image: __C.UIImage) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "198"
+                  endingLineNumber = "198"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "754E1FC3-6355-420D-AD77-30C827430128 - c0e9825f74249833"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockVC.weatherIconDownloadSuccess(image: __C.UIImage) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Assignment/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D645F3E-55E4-44D5-88DC-FE0F4AE9464B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherTests/WeatherTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "fetchImageDownloadFailure()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D645F3E-55E4-44D5-88DC-FE0F4AE9464B - e1f55b7bb4c7646f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.fetchImageDownloadFailure() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "9D645F3E-55E4-44D5-88DC-FE0F4AE9464B - e1f55b7bb4c7646f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.fetchImageDownloadFailure() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "9D645F3E-55E4-44D5-88DC-FE0F4AE9464B - e1f55b7bb4c765b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.fetchImageDownloadFailure() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "9D645F3E-55E4-44D5-88DC-FE0F4AE9464B - dd79162b4f11f0c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.fetchImageDownloadFailure() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Assignment/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2C09E53-D4F9-410B-82A5-12C33D09E8EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherTests/WeatherTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "getImageDetails(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2C09E53-D4F9-410B-82A5-12C33D09E8EB - b191d564080468d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.getImageDetails(url: Foundation.URL, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "E2C09E53-D4F9-410B-82A5-12C33D09E8EB - b191d564080468d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.getImageDetails(url: Foundation.URL, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "145"
+                  endingLineNumber = "145"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E2C09E53-D4F9-410B-82A5-12C33D09E8EB - b191d5640804657"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.getImageDetails(url: Foundation.URL, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "E2C09E53-D4F9-410B-82A5-12C33D09E8EB - 37955006bb56db6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.MockApiService.getImageDetails(url: Foundation.URL, completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Assignment/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EC137F3-60A8-463D-93AE-F75C37241530"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherTests/WeatherTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "testGetImageDetailsFailure1()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EC137F3-60A8-463D-93AE-F75C37241530 - 8543fd298f3e3f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.WeatherTests.testGetImageDetails_Success() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "9EC137F3-60A8-463D-93AE-F75C37241530 - 8543fd298f3e3f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.WeatherTests.testGetImageDetails_Success() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "9EC137F3-60A8-463D-93AE-F75C37241530 - 3919965c10dd6671"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherTests.WeatherTests.testGetImageDetailsFailure1() -&gt; ()"
+                  moduleName = "WeatherTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nabnitpatnaik/Desktop/Assignment/Weather/WeatherTests/WeatherTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
